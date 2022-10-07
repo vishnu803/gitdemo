@@ -1,1 +1,1 @@
-Hello man iam deoing a git demo!!
+Hello man iam doing a git demo!!
